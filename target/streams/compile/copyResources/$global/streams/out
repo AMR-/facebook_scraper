@@ -1,5 +1,0 @@
-[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(/Users/Aaron/Projects/facebook_scraper/src/main/resources/config.json,/Users/Aaron/Projects/facebook_scraper/target/scala-2.11/classes/config.json)[0m
-[0m[[0mdebug[0m] [0m	(/Users/Aaron/Projects/facebook_scraper/src/main/resources/example.config.json,/Users/Aaron/Projects/facebook_scraper/target/scala-2.11/classes/example.config.json)[0m
-[0m[[0mdebug[0m] [0m	(/Users/Aaron/Projects/facebook_scraper/src/main/resources/local.default.properties,/Users/Aaron/Projects/facebook_scraper/target/scala-2.11/classes/local.default.properties)[0m
-[0m[[0mdebug[0m] [0m	(/Users/Aaron/Projects/facebook_scraper/src/main/resources/local.properties,/Users/Aaron/Projects/facebook_scraper/target/scala-2.11/classes/local.properties)[0m
