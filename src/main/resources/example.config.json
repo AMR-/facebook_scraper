@@ -1,0 +1,20 @@
+{
+  "default_max_number_comments_per_message": 1000,
+  "default_messages_per_page": 10,
+  "default_max_pages_to_query_per_pageName": 100,
+  "page_infos": [
+    {
+      "page_name": "art.int4u"
+    },
+    {
+      "page_name": "hillaryclinton",
+      "max_number_comments_per_message": 100,
+      "messages_per_page": 4,
+      "max_pages_to_query": 130
+    },
+    {
+      "page_name": "donaldtrump",
+      "messages_per_page": 5
+    }
+  ]
+}

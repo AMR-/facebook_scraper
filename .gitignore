@@ -1,0 +1,5 @@
+.DS_Store
+.idea
+out/
+src/main/resources/local.properties
+src/main/resources/config.json
